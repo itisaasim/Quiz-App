@@ -2,7 +2,7 @@
 Quiz App in React.js
 
 
-##SCREENSHOTS
+# SCREENSHOTS
 
 ![image](https://github.com/itisaasim/Quiz-App/assets/111583166/2a58c893-bea6-4a25-b11b-1dacffe50a05)
 
